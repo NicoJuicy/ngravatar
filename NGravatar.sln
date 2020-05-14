@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGravatar.Sample", "NGravatar.Sample\NGravatar.Sample.csproj", "{3FF9E407-0B54-4763-9152-2E757383F1DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGravatar.Web", "NGravatar.Web\NGravatar.Web.csproj", "{30D2B80D-477F-4C0B-B1C0-F752945B2B4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGravatar", "NGravatar\NGravatar.csproj", "{CE18895B-070A-46FD-97F6-14D337F401AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF9E407-0B54-4763-9152-2E757383F1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF9E407-0B54-4763-9152-2E757383F1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF9E407-0B54-4763-9152-2E757383F1DF}.Debug|x64.ActiveCfg = Debug|x64
+		{3FF9E407-0B54-4763-9152-2E757383F1DF}.Debug|x64.Build.0 = Debug|x64
+		{3FF9E407-0B54-4763-9152-2E757383F1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF9E407-0B54-4763-9152-2E757383F1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF9E407-0B54-4763-9152-2E757383F1DF}.Release|x64.ActiveCfg = Release|x64
+		{3FF9E407-0B54-4763-9152-2E757383F1DF}.Release|x64.Build.0 = Release|x64
+		{30D2B80D-477F-4C0B-B1C0-F752945B2B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D2B80D-477F-4C0B-B1C0-F752945B2B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D2B80D-477F-4C0B-B1C0-F752945B2B4F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{30D2B80D-477F-4C0B-B1C0-F752945B2B4F}.Debug|x64.Build.0 = Debug|Any CPU
+		{30D2B80D-477F-4C0B-B1C0-F752945B2B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D2B80D-477F-4C0B-B1C0-F752945B2B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D2B80D-477F-4C0B-B1C0-F752945B2B4F}.Release|x64.ActiveCfg = Release|Any CPU
+		{30D2B80D-477F-4C0B-B1C0-F752945B2B4F}.Release|x64.Build.0 = Release|Any CPU
+		{CE18895B-070A-46FD-97F6-14D337F401AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE18895B-070A-46FD-97F6-14D337F401AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE18895B-070A-46FD-97F6-14D337F401AD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{CE18895B-070A-46FD-97F6-14D337F401AD}.Debug|x64.Build.0 = Debug|Any CPU
+		{CE18895B-070A-46FD-97F6-14D337F401AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE18895B-070A-46FD-97F6-14D337F401AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE18895B-070A-46FD-97F6-14D337F401AD}.Release|x64.ActiveCfg = Release|Any CPU
+		{CE18895B-070A-46FD-97F6-14D337F401AD}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EF8631C-6113-4AD8-B53D-5B98C9FC7DB8}
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = NGravatar.Core\NGravatar.Core.csproj
+	EndGlobalSection
+EndGlobal

@@ -83,16 +83,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NGravatar\NGravatar.csproj">
-      <Project>{C73506AC-116F-40BF-AF1F-829923D84F87}</Project>
-      <Name>NGravatar</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\NGravatar.Core\NGravatar.Core.csproj">
-      <Project>{FC4062C5-868C-4CF4-989D-ED0BF3DB9748}</Project>
-      <Name>NGravatar.Core</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

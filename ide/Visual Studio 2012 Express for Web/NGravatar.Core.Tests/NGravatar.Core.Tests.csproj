@@ -114,12 +114,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NGravatar.Core\NGravatar.Core.csproj">
-      <Project>{FC4062C5-868C-4CF4-989D-ED0BF3DB9748}</Project>
-      <Name>NGravatar.Core</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

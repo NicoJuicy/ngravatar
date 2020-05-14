@@ -1,0 +1,5 @@
+C:\source\ngravatar\NGravatar\bin\Debug\NGravatar.dll
+C:\source\ngravatar\NGravatar\bin\Debug\NGravatar.pdb
+C:\source\ngravatar\NGravatar\obj\Debug\NGravatar.csproj.CoreCompileInputs.cache
+C:\source\ngravatar\NGravatar\obj\Debug\NGravatar.dll
+C:\source\ngravatar\NGravatar\obj\Debug\NGravatar.pdb
