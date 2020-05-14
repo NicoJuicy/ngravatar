@@ -4,3 +4,4 @@ C:\source\ngravatar\ide\Visual Studio 2012 Express for Web\NGravatar.Core\bin\NG
 C:\source\ngravatar\ide\Visual Studio 2012 Express for Web\NGravatar.Core\obj\Debug\NGravatar.Core.csproj.CoreCompileInputs.cache
 C:\source\ngravatar\ide\Visual Studio 2012 Express for Web\NGravatar.Core\obj\Debug\NGravatar.Core.dll
 C:\source\ngravatar\ide\Visual Studio 2012 Express for Web\NGravatar.Core\obj\Debug\NGravatar.Core.pdb
+C:\source\ngravatar\ide\Visual Studio 2012 Express for Web\NGravatar.Core\obj\Debug\NGravatar.Core.csprojAssemblyReference.cache

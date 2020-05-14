@@ -13,3 +13,4 @@ C:\source\ngravatar\ide\Visual Studio 2012 Express for Web\NGravatar.Core.Tests\
 C:\source\ngravatar\ide\Visual Studio 2012 Express for Web\NGravatar.Core.Tests\obj\Debug\NGravatar.Core.Tests.csproj.CopyComplete
 C:\source\ngravatar\ide\Visual Studio 2012 Express for Web\NGravatar.Core.Tests\obj\Debug\NGravatar.Core.Tests.dll
 C:\source\ngravatar\ide\Visual Studio 2012 Express for Web\NGravatar.Core.Tests\obj\Debug\NGravatar.Core.Tests.pdb
+C:\source\ngravatar\ide\Visual Studio 2012 Express for Web\NGravatar.Core.Tests\bin\nunit.framework.pdb
