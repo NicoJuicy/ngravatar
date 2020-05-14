@@ -1,0 +1,6 @@
+C:\source\ngravatar\ide\Visual Studio 2012 Express for Web\NGravatar.Core\bin\x64\Release\NGravatar.Core.dll
+C:\source\ngravatar\ide\Visual Studio 2012 Express for Web\NGravatar.Core\bin\x64\Release\NGravatar.Core.pdb
+C:\source\ngravatar\ide\Visual Studio 2012 Express for Web\NGravatar.Core\bin\x64\Release\NGravatar.Core.xml
+C:\source\ngravatar\ide\Visual Studio 2012 Express for Web\NGravatar.Core\obj\x64\Release\NGravatar.Core.csproj.CoreCompileInputs.cache
+C:\source\ngravatar\ide\Visual Studio 2012 Express for Web\NGravatar.Core\obj\x64\Release\NGravatar.Core.dll
+C:\source\ngravatar\ide\Visual Studio 2012 Express for Web\NGravatar.Core\obj\x64\Release\NGravatar.Core.pdb

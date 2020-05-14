@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 2012 for Web
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGravatar.Core", "NGravatar.Core\NGravatar.Core.csproj", "{FC4062C5-868C-4CF4-989D-ED0BF3DB9748}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NGravatar.Core.Tests", "NGravatar.Core.Tests\NGravatar.Core.Tests.csproj", "{C35305D7-C38B-4906-BED2-BA69A84ACB12}"
@@ -14,21 +16,57 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{FC4062C5-868C-4CF4-989D-ED0BF3DB9748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FC4062C5-868C-4CF4-989D-ED0BF3DB9748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC4062C5-868C-4CF4-989D-ED0BF3DB9748}.Debug|x64.ActiveCfg = Debug|x64
+		{FC4062C5-868C-4CF4-989D-ED0BF3DB9748}.Debug|x64.Build.0 = Debug|x64
+		{FC4062C5-868C-4CF4-989D-ED0BF3DB9748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC4062C5-868C-4CF4-989D-ED0BF3DB9748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC4062C5-868C-4CF4-989D-ED0BF3DB9748}.Release|x64.ActiveCfg = Release|x64
+		{FC4062C5-868C-4CF4-989D-ED0BF3DB9748}.Release|x64.Build.0 = Release|x64
 		{C35305D7-C38B-4906-BED2-BA69A84ACB12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C35305D7-C38B-4906-BED2-BA69A84ACB12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C35305D7-C38B-4906-BED2-BA69A84ACB12}.Debug|x64.ActiveCfg = Debug|x64
+		{C35305D7-C38B-4906-BED2-BA69A84ACB12}.Debug|x64.Build.0 = Debug|x64
+		{C35305D7-C38B-4906-BED2-BA69A84ACB12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C35305D7-C38B-4906-BED2-BA69A84ACB12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C35305D7-C38B-4906-BED2-BA69A84ACB12}.Release|x64.ActiveCfg = Release|x64
+		{C35305D7-C38B-4906-BED2-BA69A84ACB12}.Release|x64.Build.0 = Release|x64
 		{C73506AC-116F-40BF-AF1F-829923D84F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C73506AC-116F-40BF-AF1F-829923D84F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C73506AC-116F-40BF-AF1F-829923D84F87}.Debug|x64.ActiveCfg = Debug|x64
+		{C73506AC-116F-40BF-AF1F-829923D84F87}.Debug|x64.Build.0 = Debug|x64
+		{C73506AC-116F-40BF-AF1F-829923D84F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C73506AC-116F-40BF-AF1F-829923D84F87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C73506AC-116F-40BF-AF1F-829923D84F87}.Release|x64.ActiveCfg = Release|x64
+		{C73506AC-116F-40BF-AF1F-829923D84F87}.Release|x64.Build.0 = Release|x64
 		{2362E055-1FEB-4EE9-883F-EE4C7FD75189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{2362E055-1FEB-4EE9-883F-EE4C7FD75189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2362E055-1FEB-4EE9-883F-EE4C7FD75189}.Debug|x64.ActiveCfg = Debug|x64
+		{2362E055-1FEB-4EE9-883F-EE4C7FD75189}.Debug|x64.Build.0 = Debug|x64
+		{2362E055-1FEB-4EE9-883F-EE4C7FD75189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2362E055-1FEB-4EE9-883F-EE4C7FD75189}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2362E055-1FEB-4EE9-883F-EE4C7FD75189}.Release|x64.ActiveCfg = Release|x64
+		{2362E055-1FEB-4EE9-883F-EE4C7FD75189}.Release|x64.Build.0 = Release|x64
 		{3FF9E407-0B54-4763-9152-2E757383F1DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3FF9E407-0B54-4763-9152-2E757383F1DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF9E407-0B54-4763-9152-2E757383F1DF}.Debug|x64.ActiveCfg = Debug|x64
+		{3FF9E407-0B54-4763-9152-2E757383F1DF}.Debug|x64.Build.0 = Debug|x64
+		{3FF9E407-0B54-4763-9152-2E757383F1DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF9E407-0B54-4763-9152-2E757383F1DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FF9E407-0B54-4763-9152-2E757383F1DF}.Release|x64.ActiveCfg = Release|x64
+		{3FF9E407-0B54-4763-9152-2E757383F1DF}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EF8631C-6113-4AD8-B53D-5B98C9FC7DB8}
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = NGravatar.Core\NGravatar.Core.csproj

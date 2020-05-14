@@ -10,7 +10,8 @@ namespace NGravatar.Abstractions.Xml.Linq.Tests {
     public class XDocumentAbstractionTests {
 
         [Test]
-        public void DefaultInstance_IsInstance() {
+        public void DefaultInstance_IsInstance()
+        {
             var def = XDocumentAbstraction.DefaultInstance;
             Assert.IsNotNull(def);
             Assert.AreEqual(typeof(XDocumentAbstraction), def.GetType());
